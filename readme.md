@@ -301,7 +301,6 @@ Users are responsible for:
 
 For support, questions, or issues:
 
-- **GitHub**: [00ie](https://github.com/00ie)
 - **Telegram**: [@feicoes](https://t.me/feicoes)
 - **Discord**: tlwm
 - **Community Server**: [https://discord.gg/2asv4rEhGh](https://discord.gg/2asv4rEhGh)
